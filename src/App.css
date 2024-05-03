@@ -1,0 +1,14 @@
+body {
+  background: white;
+  height: 100%;
+}
+
+input {
+  background: white;
+  border: solid 2px red;
+}
+
+.autocomplete-list {
+  border: 2px solid blue;
+  margin: 4px 4px;
+}
